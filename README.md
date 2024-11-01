@@ -1,10 +1,11 @@
 # Vidushi Maheshwari
 ### Senior Computer Science Undergraduate at IIT Delhi (2021-25)
 
+Please find my relevant projects on my Github profile
+
 <!--
 **vidushi0204/vidushi0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I’m currently learning Machine Learning, Deep Learning and a little bit of Natural Language Processing
 - 📫 How to reach me: **vidushimaheshwari8@gmail.com**
 
 <h3 align="left">Currently Working with</h3>
